@@ -1,5 +1,6 @@
 # google-chart-offline
-I record google chart and find it will be local if you change several keywords in the two load.js. I upload it here but dont use it in your application because it is out of the license of google chart.
+Instructions to make Google Charts fully functional in an offline environment.
+Do not deploy, as it is against the [terms of service](https://developers.google.com/chart/interactive/faq).
 
 -----
 ## Setup
