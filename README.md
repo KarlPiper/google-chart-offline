@@ -21,14 +21,14 @@ annotation, calendar, sankey
 | Combo Charts | corechart |
 | Diff Charts | corechart |
 | Donut Charts | corechart |
-| Gantt Charts | corechart |
-| Gauge Charts | corechart |
-| GeoCharts | corechart |
+| Gantt Charts | gantt |
+| Gauge Charts | gauge |
+| GeoCharts | geochart |
 | Histograms | corechart |
 | Intervals | corechart |
 | Line Charts | corechart |
-| Maps | corechart |
-| Org Charts | corechart |
+| Maps | map |
+| Org Charts | orgchart |
 | Pie Charts | corechart |
 | Sankey Diagrams | sankey |
 | Scatter Charts | corechart |
